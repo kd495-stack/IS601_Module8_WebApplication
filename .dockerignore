@@ -1,0 +1,12 @@
+venv
+.venv
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+htmlcov
+.coverage
+node_modules
+playwright-report
+.git
+.gitignore
